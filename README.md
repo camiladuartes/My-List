@@ -6,9 +6,9 @@ The purpose is to replicate the STL's `std::list` behavior.
 
 ## Student:
 
-Camila Duarte
+Camila Duarte.
 
-## Compilation:
+## Compilation (with CMake):
 1. `mkdir build`
 2. `cd build`
 3. `cmake -G "Unix Makefiles" ..`
